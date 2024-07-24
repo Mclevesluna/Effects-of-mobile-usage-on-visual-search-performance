@@ -72,7 +72,7 @@ Python
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
+    git clone https://github.com/Mclevesluna/Mobile-usage-and-search-performance.git
     cd your-repository-name
     ```
 
