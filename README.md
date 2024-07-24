@@ -1,3 +1,4 @@
+# Project Overview
 1. Project Overview
 Our project consists of two tasks, each conducted in a separate JupyterLab Notebook (ClassAssignmentPart1.ipynb and ClassAssignmentPart2.ipynb).
 
