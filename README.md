@@ -7,8 +7,11 @@ For the first task, our goal was to study whether users with high mobile usage f
 For the second task, we aimed to analyze the types of variables and data within four datasets, identifying relationships, patterns, and potential classification problems. To accomplish this, we followed a series of steps to determine data/variable types, identify linearity and patterns, and explore classification problems. For specific datasets, we also explored models such as decision trees, multiple regressions, and KNN predictors.
 
 2. Installation Instructions
-Each Jupyter Notebook uses a series of libraries. Ensure the following libraries are installed:
-
+Each Jupyter Notebook uses a series of libraries. Ensure the following libraries are installed
+```
+pip install -r requirments.txt
+```
+if you nrrf gpu, OS
 ClassAssignmentPart1.ipynb:
 
 import numpy as np
