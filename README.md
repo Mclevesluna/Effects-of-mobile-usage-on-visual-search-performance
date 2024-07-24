@@ -4,7 +4,7 @@
 This project aims to study if users with high mobile usage find a given visual search target faster than their counterparts and to assess if there is any significant interaction with variables like gender and age. To achieve this, we followed a series of steps, including checking data quality, analyzing data relationships/distributions, exploring correlations and associations (regressions), and running inferential statistical tests, such as ANOVA.
 
 ## Dataset
-Data set for this project is in folder titled "data", corresponds to a study conducted by xxxx and was provided by Creative Computing Institute at University of the Art London (2023). 
+Data set for this project is in folder titled "data" and was provided by Creative Computing Institute at University of the Art London (2023). 
 We have also created an adjusted version of the data set used that includes all additional columns and variables created during the analysis process.
 
 ## Preferred Language
